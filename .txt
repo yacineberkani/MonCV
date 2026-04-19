@@ -1,0 +1,9 @@
+{
+    "env": {
+      "ANTHROPIC_BASE_URL": "https://ollama.com",
+      "ANTHROPIC_AUTH_TOKEN": "ebd1f0a367784d67ba1b59a6612af355.jN9FNzwzEWyXyxlCMr0ZPliM",
+      "ANTHROPIC_API_KEY": "",
+      "ANTHROPIC_MODEL": "glm-5.1:cloud"
+    }
+  }
+  
